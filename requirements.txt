@@ -1,4 +1,8 @@
 numpy>=1.26
 pandas>=2.0
+matplotlib>=3.7
 seaborn>=0.12.2
--e .
+scikit-learn>=1.7.0
+catboost >= 1.2.5
+xgboost
+#-e .

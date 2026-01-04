@@ -83,6 +83,9 @@ This code:
 # commit code and push to git repo 
 git add .
 git commit -m "logging and exception"
+git push -u origin main
+
+# create notebook d
 
 
 
